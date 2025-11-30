@@ -65,4 +65,4 @@ danawa_fridge_capacity.csv
 
  ---
 
- https://github.com/heelee912/danawa_crawl/issues # 게시판
+ https://github.com/heelee912/danawa_crawl/issues # 이슈 게시판
